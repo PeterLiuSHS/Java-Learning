@@ -4,8 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/api-app/api-app.iml" filepath="$PROJECT_DIR$/api-app/api-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/javasepro.iml" filepath="$PROJECT_DIR$/javasepro.iml" />
-      <module fileurl="file://$PROJECT_DIR$/oop-adv/oop-adv.iml" filepath="$PROJECT_DIR$/oop-adv/oop-adv.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop-app1/oop-app1.iml" filepath="$PROJECT_DIR$/oop-app1/oop-app1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-app2/oop-app2.iml" filepath="$PROJECT_DIR$/oop-app2/oop-app2.iml" />
     </modules>
   </component>
 </project>
